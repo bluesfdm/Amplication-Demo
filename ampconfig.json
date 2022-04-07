@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.3",
+  "appInfo": {
+    "name": "demo",
+    "description": "amplication 测试项目",
+    "version": "qs8646jg",
+    "id": "cl1ol2ssp79012701s6c71jnbsa",
+    "url": "https://app.amplication.com/cl1ol2ssp79012701s6c71jnbsa",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl1ol2ssp79012701s6c71jnbsa",
+      "authProvider": "Http"
+    }
+  }
+}
